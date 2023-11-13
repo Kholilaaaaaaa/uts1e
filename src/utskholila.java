@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class EventLari {
+public class utskholila {
   // Metode untuk mengecek apakah suatu angka adalah bilangan prima
   private static boolean isPrime(int n) {
       if (n <= 1) {
